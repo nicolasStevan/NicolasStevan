@@ -1,5 +1,5 @@
 
-### Olá Eu Sou o Nicolas Stevan 👋
+### Olá Meu Nome é Nicolas Stevan 👋
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolasstevan_/)
